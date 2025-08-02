@@ -16,6 +16,6 @@ Este repositório contém uma implementação do clássico Jogo da Velha desenvo
 - jogo_python.ipynb: versão em Jupyter Notebook (útil para estudos)
 - entrega_jogo.zip: versão compactada com os arquivos do projeto
 
-## 📝 Licença
+> 📝 
 Este projeto é apenas para fins educativos.
 
